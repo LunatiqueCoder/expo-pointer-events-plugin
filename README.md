@@ -1,4 +1,4 @@
-# ► expo-pointer-events-plugin
+# ☝️ expo-pointer-events-plugin
 
 [![Expo][34]][35]
 ![platforms][7]
@@ -44,4 +44,17 @@ It's mostly useful if you want to try out React Strict DOM with Expo.
 
 > 📃 This project is released under the [MIT License](LICENSE). \
 > 💻 By contributing, you agree that your contributions will be licensed under its MIT License.
+
+[7]: https://img.shields.io/badge/platforms-iOS-brightgreen.svg?style=flat-square&colorB=191A17
+[9]: https://img.shields.io/github/license/LunatiqueCoder/expo-pointer-events-plugin
+[10]: https://github.com/LunatiqueCoder/expo-pointer-events-plugin/blob/master/LICENSE
+[13]: https://img.shields.io/npm/v/expo-pointer-events-plugin
+[14]: https://www.npmjs.com/package/expo-pointer-events-plugin
+[28]: https://www.jetbrains.com/
+[33]: https://user-images.githubusercontent.com/55203625/213786907-b95dfb4b-08bf-4449-a055-72edf401da23.png
+[34]: https://img.shields.io/badge/-Expo-282C34?style=flat-square&logo=expo&logoColor=#D04A37
+[35]: https://expo.dev/
+
+
+
 
