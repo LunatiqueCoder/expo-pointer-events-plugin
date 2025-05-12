@@ -1,6 +1,3 @@
-import withNotificationsExtension from './withNotificationsExtension';
+import withPointerEventsExtension from './withPointerEventsExtension';
 
-export * from './helper-plugins';
-export * from './types';
-
-export default withNotificationsExtension;
+export default withPointerEventsExtension;
